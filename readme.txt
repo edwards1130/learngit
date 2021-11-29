@@ -1,2 +1,2 @@
 haha
-git is quick and simple.
+git is quick and simple .
